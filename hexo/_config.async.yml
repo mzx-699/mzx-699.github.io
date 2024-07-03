@@ -1,0 +1,16 @@
+theme:
+  switch: true
+  default: style-light # style-light style-dark
+user:
+  name: Mzx
+  first_name: zx
+  last_name: M
+  email: 978653881@qq.com
+  domain: https://mzx699.top
+  avatar: /img/avatar.jpg
+
+footer:
+  live_time:
+    enable: true
+    prefix: footer.tips
+    start_time: 03/07/2024 00:00:00
